@@ -1,0 +1,6 @@
+The following Arduino IDE libraries need to be installed (All but the first library are used in educational scenarios involving IoT)
+•	Adafruit_TCS34725
+•	DHTLib – (by Rob Tillaart)
+•	Grove_Sunlight_Sensor
+•	BH1750
+•	Adafruit_BusIO 

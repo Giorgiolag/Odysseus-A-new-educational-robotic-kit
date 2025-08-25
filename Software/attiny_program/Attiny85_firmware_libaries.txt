@@ -1,0 +1,5 @@
+The following Arduino IDE libraries need to be installed for succesfull compilation of the Attiny 85 firmware
+
+TinywireM--> https://github.com/adafruit/TinyWireM/
+TinyWireS --> https://github.com/nadavmatalon/TinyWireS
+Tiny4kOLED-master --> https://github.com/datacute/Tiny4kOLED
