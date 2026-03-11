@@ -127,13 +127,3 @@ An advanced implementation that introduces time management. It tracks the exact 
 
 ---
 
-## 📜 Citation
-
-If you use Odysseus in your research or educational projects, please cite our *HardwareX* publication:
-
-> *(Placeholder)* Author Names. "Odysseus: An Open-Source Educational Robot." *HardwareX*, vol. XX, 202X, p. eXXXXX. DOI: 10.1016/j.ohx.202X.eXXXXX
-
-## 📄 License
-
-This software is distributed under the **Apache License 2.0**. See the `LICENSE` file for more details. 
-You are free to use, modify, and distribute this software, even for commercial purposes, provided you include the original copyright notice and state any significant changes.

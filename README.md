@@ -87,8 +87,9 @@ A guide on how to assemble the programming component is included in [plastic par
 
 
 ## Licensing
-- **Hardware:** CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S v2.0).
-- **Software (Arduino/ATtiny):** GNU General Public License v3.0 (GPLv3).
-- **Software (Python API):** Apache License 2.0.
 
-This ensures that Odysseus remains freely available for educational purposes and that any future modifications by third parties are shared back with the open-source community under the same terms.
+* **Hardware (PCB design files & 3D printable mechanics):** CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S v2.0).
+* **Firmware (Arduino/ATtiny):** GNU General Public License v3.0 (GPLv3).
+* **Software (Visual Programming Blocks):** GNU General Public License v3.0 (GPLv3).
+* **Software (Python API):** Apache License 2.0.
+
